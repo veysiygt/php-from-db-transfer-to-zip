@@ -1,5 +1,5 @@
 <?php 
-$db = new PDO("mysql:host=localhost;dbname=addyourdbname;charset=utf8", "yourdatabaseusername","yourdatabasepassword"); //Edit database link here by your own
+$db = new PDO("mysql:host=localhost;databasename=addyourdbname;charset=utf8", "yourdatabaseusername","yourdatabasepassword"); //Edit database link here by your own
 
 ?>
 
